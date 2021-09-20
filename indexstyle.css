@@ -1,0 +1,35 @@
+body{
+    background-color:lightgray;
+    margin:0;
+}
+.title{
+    background-color: beige;
+    text-align: center;
+    margin:0;
+    margin-bottom:0;
+    padding:5px;  
+    color:rgb(76, 87, 99);
+}
+h1{
+    font-family:cursive;
+    text-transform: uppercase;
+
+}
+.topnav{
+    text-align: center;
+    background-color:rgb(156, 165, 145);
+    padding:15px;
+    margin-top:0;
+}
+a{
+    border:1px solid;
+    padding:5px;
+    background-color:rgb(128, 124, 122);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:lightblue;
+    text-decoration: rgb(238, 238, 238);
+   
+}
+a:hover{
+    color:snow;
+}
