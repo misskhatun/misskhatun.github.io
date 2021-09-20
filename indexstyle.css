@@ -21,7 +21,7 @@ h1{
     padding:15px;
     margin-top:0;
 }
-a{
+.nav{
     border:1px solid;
     padding:5px;
     background-color:rgb(128, 124, 122);
@@ -32,4 +32,17 @@ a{
 }
 a:hover{
     color:snow;
+}
+.assignments{
+    background-color: rgb(207, 191, 170);
+    width:200px;
+    height:auto;
+    border: 1px solid cornsilk;
+    text-align: center;
+    text-decoration: underline;
+    color:brown;
+    padding:10px;
+}
+.app{
+    text-align:left;
 }
